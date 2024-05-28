@@ -1,6 +1,6 @@
 ![logo](https://github.com/SilentAssasin10/SilentAssasin/blob/main/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f35346236633036383039373539392e356235306263613437366239622e676966.gif)
 <h1 align="center">Hi 👋, I'm Arkapravo Roy</h1>
-<h3 align="center">A passionate Cybersecurity enthusiast from India</h3>
+<h3 align="center">A passionate Cybersecurity enthusiast from Kolkata, West Bengal</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/oPnYHljDyGdevIa0f3ZRkGvfo2OONwXTHauDA3KVEBU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbWFuLXF1/aWNrLXN5c3RlbS1j/b2RpbmctdmdzZGEy/dDdkNXR1N285eC5n/aWY.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentassasin10&label=Profile%20views&color=0e75b6&style=flat" alt="silentassasin10" /> </p>
