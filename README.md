@@ -1,15 +1,15 @@
 ![logo](https://github.com/SilentAssasin10/SilentAssasin/blob/main/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f35346236633036383039373539392e356235306263613437366239622e676966.gif)
 <h1 align="center">Hi 👋, I'm Arkapravo Roy</h1>
-<h3 align="center">A passionate Cybersecurity enthusiast from Kolkata, West Bengal</h3>
+<h3 align="center">A passionate AI-ML enthusiast from Kolkata, West Bengal</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/oPnYHljDyGdevIa0f3ZRkGvfo2OONwXTHauDA3KVEBU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbWFuLXF1/aWNrLXN5c3RlbS1j/b2RpbmctdmdzZGEy/dDdkNXR1N285eC5n/aWY.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentassasin10&label=Profile%20views&color=0e75b6&style=flat" alt="silentassasin10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Step Tracker](https://github.com/SilentAssasin10/StepTracker)
+- 🔭 I'm currently working on [J.A.R.V.I.S](https://github.com/SilentAssasin10/J.A.R.V.I.S)
 
-- 🌱 I’m currently learning **Cybersecurity || App Dev**
+- 🌱 I’m currently learning **AI-ML || App Dev**
 
 - 👯 I’m looking to collaborate on [NumplexApp](https://github.com/SilentAssasin10/NumplexApp)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/arkapravo-roy-7067442b6](https://www.linkedin.com/in/arkapravo-roy-7067442b6)
 
-- 💬 Ask me about **C,Python,Kotlin**
+- 💬 Ask me about **C, C++, Python, Kotlin**
 
 - 📫 How to reach me **darklordxdlm10@gmail.com**
 
