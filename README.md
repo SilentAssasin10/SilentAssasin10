@@ -13,8 +13,8 @@
 
 ### 🚀 About Me
 
-- 💻 I’m currently focused on **Machine Learning** using **Python**, **Pandas**, **Seaborn**, **Tensorflow**
-- 📱 Exploring **Backend Development**
+- 💻 I’m currently focused on **Data Engineering** using **Python**, **SQL**, **PySpark**, **Apache Airflow**
+- 📱 Currently working on the project based on **Data Warehousing**
 - 🎨 Passionate about designing intuitive UIs with **Figma**, **Canva**, and **Adobe tools**
 - 📚 Always eager to learn, experiment, and collaborate on tech-driven ideas
 - 📫 Reach me at [**darklordxdlm10@gmail.com**](mailto:darklordxdlm10@gmail.com)
