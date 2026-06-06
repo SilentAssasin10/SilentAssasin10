@@ -33,7 +33,7 @@
 ### 🧠 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,c,cpp,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### 🛠️ Tools & Tech
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,aws,spark,hadoop,firebase,git,github,sqlite,figma,photoshop,canva" />
+  <img src="https://skillicons.dev/icons?i=react,aws,firebase,git,github,sqlite,figma,photoshop,canva" />
 </p>
 
 ---
