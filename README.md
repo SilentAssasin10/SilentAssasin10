@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]()
 
 <h1 align="center">Hi 🌏, I'm Arkapravo Roy</h1>
-<h3 align="center">ML enthusiast | Tech Leader | Backend developer</h3>
+<h3 align="center">Data Engineer | Tech Leader | Backend developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
 
@@ -58,8 +58,8 @@
 
 ### 📌 Current Goals
 
-- Build backend systems 
-- Build ML models using **Dataset** and **ML Algos**
+- Build efficient ETL/ELT pipelines
+- Build pipelines using **PySpark** and automate them using **Apache Airflow**
 - Improve UI/UX skills via **Canva, Figma, and Adobe Suite**
 - Collaborate more through **open-source projects**
 
